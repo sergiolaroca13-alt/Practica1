@@ -6,7 +6,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
 }
 
@@ -49,9 +49,9 @@ nav a:hover {
 }
 
 .product-card {
-    background: white;
+    background: rgb(0, 0, 0);
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     border-radius: 8px;
     width: 150px;
 }
