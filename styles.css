@@ -7,7 +7,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #ffffff;
-    text-align: center;
+    text-align: h1 {
+    text-align: left;
+};
 }
 
 header {
